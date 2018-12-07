@@ -52,7 +52,7 @@ def register():
 #exit
 @app.route("/logout/",methods=["GET"])
 def logout():
-    return redirect("/login/")
+    return redirect("/")
 #update file name
 def change_filename(name):
     information=os.path.splitext(name)
