@@ -4,6 +4,7 @@ This is the final project for my final, base on the requirement I choose for the
 
 
 [This is the moqups address](https://app.moqups.com/fli19/QtEXIictWF/view)
+[This is my final project presentation](https://www.youtube.com/watch?v=y8yp86MmNRo)
 
 
 My front-end requirement : 
